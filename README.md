@@ -31,9 +31,13 @@ Each data file is in CSV format and includes the following fields:
 **Sample (first few rows):**
 
 id, t, x, y, z
+
 1, 0.00, 1.23, 2.34, 0.00
+
 1, 0.04, 1.28, 2.39, 0.00
+
 2, 0.00, -0.71, 0.89, 0.00
+
 …
 
 ## Data Extraction

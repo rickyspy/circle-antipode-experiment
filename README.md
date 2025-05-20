@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides trajectory datasets from the **Circle Antipode Experiment**, which explores pedestrian movement and behavior under various densities and radii. The data were extracted using [PeTrack](http://petrack.org) and can support research on pedestrian dynamics, simulation model validation, and related analyses.
+This repository provides trajectory datasets from the **Circle Antipode Experiment**, which explores pedestrian movement and behavior under various densities and radii. The data were extracted using PeTrack and can support research on pedestrian dynamics, simulation model validation, and related analyses.
 
 ## Dataset Structure
 
